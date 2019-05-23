@@ -1,0 +1,34 @@
+<?php
+
+    define('LANG_IMAGES_CONTROLLER',     'Завантаження зображень');
+    define('LANG_IMAGES_PRESETS', 'Пресети');
+    define('LANG_IMAGES_PRESET', 'Назва пресета');
+    define('LANG_IMAGES_PRESET_SIZE', 'Розміри');
+    define('LANG_IMAGES_PRESET_SIZE_W', 'Ширина');
+    define('LANG_IMAGES_PRESET_SIZE_W_HINT', 'Не вказано - визначиться пропорційно висоті');
+    define('LANG_IMAGES_PRESET_SIZE_H', 'Висота');
+    define('LANG_IMAGES_PRESET_SIZE_H_HINT', 'Не вказано - визначиться пропорційно ширині');
+    define('LANG_IMAGES_PRESET_SQUARE', 'Обрізати строго за розміром');
+    define('LANG_IMAGES_PRESET_CROP', 'Строге обрізання');
+    define('LANG_IMAGES_PRESET_QUALITY', 'Якість');   
+    define('LANG_IMAGES_PRESET_WM', 'Водяний знак');   
+    define('LANG_IMAGES_PRESET_WM_ON', 'Накладати водяний знак');   
+    define('LANG_IMAGES_PRESET_WM_IMG', 'Зображення водяного знаку');    
+    define('LANG_IMAGES_PRESET_WM_ORIGIN', 'Розташування на зображенні');
+    define('LANG_IMAGES_PRESET_WM_ORIGIN_TL', 'Верхній лівий кут');
+    define('LANG_IMAGES_PRESET_WM_ORIGIN_TR', 'Верхній правий кут');
+    define('LANG_IMAGES_PRESET_WM_ORIGIN_BL', 'Нижній лівий кут');
+    define('LANG_IMAGES_PRESET_WM_ORIGIN_BR', 'Нижній правий кут');
+    define('LANG_IMAGES_PRESET_WM_ORIGIN_T', 'Верхній центр');
+    define('LANG_IMAGES_PRESET_WM_ORIGIN_B', 'Нижній центр');
+    define('LANG_IMAGES_PRESET_WM_ORIGIN_L', 'Лівий центр');
+    define('LANG_IMAGES_PRESET_WM_ORIGIN_R', 'Правий центр');
+    define('LANG_IMAGES_PRESET_WM_ORIGIN_C', 'Центр');
+    define('LANG_IMAGES_PRESET_WM_MARGIN', 'Відступ від країв зображення');
+    define('LANG_IMAGES_PRESET_DELETE_CONFIRM', 'Видалити пресет "{title}"?');
+    define('LANG_IMAGES_PRESET_GAMMA_CORRECT', 'Застосувати гамма корекцію до зображення');
+    define('LANG_IMAGES_PRESET_CROP_POSITION', 'Режим обрізки');
+    define('LANG_IMAGES_PRESET_CCENTER', 'По центру');
+    define('LANG_IMAGES_PRESET_TOP_CENTER', 'Зверху по центру');
+    define('LANG_IMAGES_PRESET_CBOTTOM', 'Знизу');
+    define('LANG_IMAGES_PRESET_CRIGHT', 'Справа');
